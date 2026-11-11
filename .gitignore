@@ -1,0 +1,36 @@
+# Temporary & debug files
+History_copy
+contract_page.html
+doc_table_full.html
+egp_target_page.html
+egp_target_page_waited.html
+found_section.html
+procurement_page.html
+procure_result_page.html
+project_*_doc.html
+target_page2.html
+extracted_urls.txt
+main_bundle.js
+api_*.json
+candidates_live_it*.json
+verified_open_it_tenders*.json
+bruteforce_templates.ps1
+convert_db_bom.ps1
+copy_files.ps1
+dl_*.ps1
+enrich_remaining_278.ps1
+export_doc_table.ps1
+fetch_and_tag_fy69.ps1
+find_process5_urls.ps1
+generate_all_docs.ps1
+get_chrome_titles.ps1
+inspect_project_ids.ps1
+merge_fy69_master.ps1
+sync_mock.ps1
+test_dl_*.ps1
+unzip_*.ps1
+update_databases*.ps1
+
+# Downloaded e-GP project files (created automatically at runtime)
+เอกสารโครงการ_eGP/
+downloaded_docs_*/

@@ -1,0 +1,109 @@
+{
+  "company_profile": {
+    "name_th": "บริษัท นิวเทคโนโลยี่อินฟอร์เมชั่น จำกัด",
+    "name_en": "New Technology Information Co.,Ltd.",
+    "short_name": "NTi",
+    "established_year": 1994,
+    "location": "ตำบลไทรม้า อำเภอเมืองนนทบุรี จังหวัดนนทบุรี (ถ.รัตนาธิเบศร์)",
+    "business_type": "ผู้ให้บริการและจัดจำหน่ายระบบเทคโนโลยีสารสนเทศ ออกแบบ ติดตั้ง และบำรุงรักษาแบบครบวงจร (IT System Integrator & Solutions Provider)",
+    "target_budget_range": {
+      "min": 100000,
+      "max": 50000000,
+      "sweet_spot_min": 500000,
+      "sweet_spot_max": 15000000
+    }
+  },
+  "categories": [
+    {
+      "id": "pc_hardware",
+      "name": "จัดซื้อคอมพิวเตอร์ / PC / โน้ตบุ๊ก / เซิร์ฟเวอร์",
+      "icon": "desktop",
+      "color": "#3B82F6",
+      "keywords": [
+        "คอมพิวเตอร์", "เครื่องคอมพิวเตอร์", "PC", "Desktop", "All-in-One", "โน้ตบุ๊ก", 
+        "Notebook", "Laptop", "เครื่องคอมพิวเตอร์แม่ข่าย", "Server", "Workstation", 
+        "แท็บเล็ต", "Tablet", "เครื่องพิมพ์", "Printer", "Scanner", "จัดซื้อคอมพิวเตอร์"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "id": "ma_pm",
+      "name": "งานบริการบำรุงรักษา MA & PM ระบบคอมพิวเตอร์",
+      "icon": "wrench",
+      "color": "#F59E0B",
+      "keywords": [
+        "บำรุงรักษา", "MA", "PM", "Preventive Maintenance", "ซ่อมแซม", "ดูแลระบบ", 
+        "บำรุงรักษาและซ่อมแซม", "จ้างบริการบำรุงรักษา", "จ้างบำรุงรักษาเครื่องคอมพิวเตอร์", 
+        "ซ่อมบำรุง", "สัญญาบริการ", "Helpdesk", "Onsite Support"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "id": "cabling_power",
+      "name": "เดินระบบไฟ สายสัญญาณ LAN & Fiber Optic",
+      "icon": "zap",
+      "color": "#10B981",
+      "keywords": [
+        "สาย Lan", "สายแลน", "UTP", "Cat6", "Cat6A", "Cat5e", "เดินสายสัญญาณ", 
+        "Fiber Optic", "ใยแก้วนำแสง", "สายใยแก้ว", "ระบบไฟฟ้า", "ตู้ Rack", 
+        "ตู้ควบคุมระบบ", "ระบบสายสัญญาณ", "Structured Cabling", "เครื่องสำรองไฟ", "UPS"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "id": "network_security",
+      "name": "ระบบเครือข่าย Network & ความปลอดภัย IT",
+      "icon": "wifi",
+      "color": "#8B5CF6",
+      "keywords": [
+        "เครือข่าย", "Network", "Switch", "Core Switch", "Access Switch", "Router", 
+        "Wi-Fi", "Access Point", "Wireless", "Firewall", "ระบบความปลอดภัยเครือข่าย", 
+        "LAN", "WLAN", "SD-WAN", "VPN", "อินเทอร์เน็ต", "ปรับปรุงระบบเครือข่าย"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "id": "meeting_av",
+      "name": "ระบบห้องประชุม & Video Conference & ภาพเสียง",
+      "icon": "video",
+      "color": "#EC4899",
+      "keywords": [
+        "ห้องประชุม", "ระบบห้องประชุม", "Video Conference", "ประชุมทางไกล", "Smart Board", 
+        "Interactive Screen", "จอแสดงผล", "จอภาพอัจฉริยะ", "ระบบภาพและเสียง", "ไมโครโฟนห้องประชุม", 
+        "เครื่องเสียงห้องประชุม", "Projector", "กล้องสำหรับห้องประชุม", "Digital Signage"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "id": "software_license",
+      "name": "ซอฟต์แวร์ ลิขสิทธิ์ & พัฒนาระบบแอปพลิเคชัน",
+      "icon": "code",
+      "color": "#06B6D4",
+      "keywords": [
+        "ซอฟต์แวร์", "Software", "ลิขสิทธิ์", "License", "Microsoft", "Windows", 
+        "Antivirus", "พัฒนาระบบ", "Web Application", "Mobile App", "พัฒนาระบบสารสนเทศ", 
+        "ระบบสารสนเทศ", "ฐานข้อมูล", "Database"
+      ],
+      "priority": "MEDIUM"
+    }
+  ],
+  "exclude_keywords": [
+    "เช่ารถ", "ก่อสร้างอาคาร", "ถนน", "คอนกรีต", "สะพาน", "อาหาร", "ทำความสะอาด", "จ้างเหมาบริการรักษาความปลอดภัย", "ชุดปฏิบัติงาน"
+  ],
+  "api_settings": {
+    "api_key": "lPYPLgnzSqpkRiNyyt3mnGhDHQSoWQm6",
+    "ckan_base_url": "https://data.go.th/api/3/action",
+    "data_go_th_base_url": "https://opend.data.go.th/govspending/cgdcontract",
+    "egp_search_url": "https://www.gprocurement.go.th",
+    "gov_spending_url": "https://govspending.data.go.th",
+    "default_years": [2568, 2567],
+    "default_limit": 50
+  },
+  "notification": {
+    "line_notify_enabled": false,
+    "line_notify_token": "",
+    "discord_webhook_enabled": false,
+    "discord_webhook_url": "",
+    "alert_min_budget": 500000
+  }
+}
